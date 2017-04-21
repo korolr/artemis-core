@@ -12,4 +12,4 @@ _More parts to be added soon_
 * [Launcher](https://github.com/enjade-project/enjade-launcher)
 
 ## Learn More
-You can find more about Enjade through the wiki pages on GitHub in this repo or join the [Telegram group](https://t.me/joinchat/AAAAAArHselMVbzimzqbjQ).
+You can find more about Enjade through the wiki pages on GitHub in this repo or join the [Telegram group](https://t.me/enjadeproject).
