@@ -1,15 +1,12 @@
-# Enjade Desktop
-![Enjade desktop](https://enjade-project.github.io/enjade-concept-kde-ubuntu.png)
+# Artemis Core
+A Plasma-based Unity desktop environment
 
-## A modern, Unified desktop
-The Enjade desktop environment is a community project to recreate and continue the Unity desktop environment. From the versatile Dash down to the global menu, Enjade promises to provide the familiar experience Ubuntu users love while adding new features to keep it up with the latest trends.
+## Description
+Core brings new features constantly and supports new technologies in the modern Linux space like support for Wayland. With a plethora of plasmoids and a comprehensive Look&Feel package, Core brings the best experience for those who want to be on the bleeding edge of technology.
 
-## Repo details
-This repository is the primary repo; this contains the prebuilt packages for the many parts of Enjade and is the collection of files before packaging for the Look&Feel theme.
+## Repository Details
+This repository is responsible for holding the following components together in a Look&Feel package:
+* [Core Launcher](https://github.com/enjade-project/artemis-core-launcher)
 
-### Parts of Enjade (link to other repos)
-_More parts to be added soon_
-* [Launcher](https://github.com/enjade-project/enjade-launcher)
-
-## Learn More
-You can find more about Enjade through the wiki pages on GitHub in this repo or join the [Telegram group](https://t.me/enjadeproject).
+## Contribute
+To contribute to the Artemis Project, take a look at the [Get Involved page](https://enjade-project.github.io/contrib/)
